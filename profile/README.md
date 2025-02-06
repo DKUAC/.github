@@ -45,23 +45,12 @@ DKUAC/
 
 
 ## 🚀 Getting Started
+
 ### 1. Clone Repository
-bash
+```bash
 git clone https://github.com/your-username/DKUAC.git
 cd DKUAC
 
-
-### 2. Frontend Setup
-bash
-cd frontend
-npm install
-npm start
-
-
-### 3. Backend Setup
-bash
-cd backend
-./gradlew bootRun
 
 
 ## 📝 Contribution
