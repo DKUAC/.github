@@ -67,7 +67,7 @@ cd backend
 
 ## 📧 Contact
 문의사항이 있으시면 아래 이메일로 연락해주세요.
-- Email: dkuac@dankook.ac.kr
+- Email: hooni7007@naver.com
 
 ---
 
