@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/5cc31bb4-b426-4f91-801b-90bd75d53045)
 
 **DKUAC - Dankook Univerisy Alpine Club**는 단국대학교의 클라이밍 및 등산 동아리로, 다양한 산악 활동과 클라이밍을 즐기는 동아리입니다. 이 웹사이트는 DKUAC의 활동을 기록하고, 회원들이 동아리 운영과 일정에 쉽게 접근할 수 있도록 제작되었습니다.
-
+🖥️ 공식 홈페이지: https://www.dkuac.co.kr/
 이 웹사이트는 DKUAC 운영진인 정성훈과 전호영에 의해 개발되었으며, **프론트엔드 개발은 정성훈, 백엔드 개발은 전호영**이 맡았습니다.
 
-## 팀원 소개
+## 👥 팀원 소개
 | Name     | Position     | GitHub                                                                                                                   |
 |----------|------------|---------------------------------------------------------------------------------------------------------------------------|
 | 정성훈  | 프론트엔드 | [![정성훈의 GitHub 프로필 사진](https://github.com/seonghoon1201.png?size=90)](https://github.com/seonghoon1201) |
@@ -68,8 +68,11 @@ cd backend
 
 ## 📧 Contact
 문의사항이 있으시면 아래 이메일로 연락해주세요.
-- Email: hooni7007@naver.com
+📩 Email: hooni7007@naver.com
 
 ---
 
-본 프로젝트는 단국대학교 DKUAC 동아리를 위한 공식 웹사이트 프로젝트입니다.
+✅ 본 프로젝트는 단국대학교 DKUAC 동아리를 위한 공식 웹사이트 프로젝트입니다.
+🖥️ 공식 홈페이지: https://www.dkuac.co.kr/
+
+
