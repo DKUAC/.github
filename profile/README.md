@@ -75,6 +75,7 @@ cd backend
 ---
 
 ✅ 본 프로젝트는 단국대학교 DKUAC 동아리를 위한 공식 웹사이트 프로젝트입니다.
+
 🖥️ 공식 홈페이지: https://www.dkuac.co.kr/
 
 
